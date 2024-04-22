@@ -1,0 +1,12 @@
+Low-Resource Machine Translation
+1. c
+2. d
+3. a
+4. b
+5. c
+6. d
+7. a
+8. b
+9. d
+10. a
+11. b
